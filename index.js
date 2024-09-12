@@ -1,1 +1,1 @@
-version1
+A better version1
